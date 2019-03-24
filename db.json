@@ -1,4 +1,4 @@
-[
+
   {
     "Districts": [
       {
@@ -41,6 +41,127 @@
         "title": "Corozal",
         "id": 10
       }
+    ],
+    "Restaurants": [
+      {
+        "Ambergris Caye": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+      ]
+      },
+      {
+       "Caye Caulker": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+        "San Ignacio": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+        "Placencia": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+        "Hopkins": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+       "Belize City": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+       "Glover's Reef": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+       "Orange Walk": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+        "Toledo": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+        ]
+      },
+      {
+        "Corozal": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+        ]
+      }
     ]
   }
-]
