@@ -6,9 +6,25 @@
         "id": 1,
         "restaurants": [
           {
-            "name": "Blues",
-            "directions": "ssdsds, street",
-            "phone": 6047891,
+            "name": "Habanero Grill",
+            "directions": "53 santa rita road, Corozal Town",
+            "phone": 6634074,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          },
+          {
+            "name": "Zoey's Cuisine",
+            "directions": "Corozal",
+            "phone": 422393968,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          },
+          {
+            "name": "Jam Rock",
+            "directions": "4th. St S, Corozal",
+            "phone": 4022405,
             "open": 10,
             "closes": 20,
             "img": "cz/1.png"
