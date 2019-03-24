@@ -3,74 +3,336 @@
     "Districts": [
       {
         "title": "Ambergris Caye",
-        "id": 1
+        "id": 1,
+        "restaurants": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "hotels": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "experiences": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
       },
       {
         "title": "Caye Caulker",
-        "id": 2
+        "id": 2,
+        "restaurants": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "hotels": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "experiences": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
       },
       {
         "title": "San Ignacio",
-        "id": 3
+        "id": 3,
+        "restaurants": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "hotels": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "experiences": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
       },
       {
         "title": "Placencia",
-        "id": 4
+        "id": 4,
+        "restaurants": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "hotels": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "experiences": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
       },
       {
         "title": "Hopkins",
-        "id": 5
+        "id": 5,
+        "restaurants": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "hotels": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "experiences": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
       },
       {
         "title": "Belize City",
-        "id": 6
+        "id": 6,
+        "restaurants": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "hotels": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "experiences": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
       },
       {
         "title": "Glover's Reef",
-        "id": 7
+        "id": 7,
+        "restaurants": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "hotels": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "experiences": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
       },
       {
         "title": "Orange Walk",
-        "id": 8
+        "id": 8,
+        "restaurants": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "hotels": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "experiences": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
       },
       {
         "title": "Toledo",
-        "id": 9
+        "id": 9,
+        "restaurants": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "hotels": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ],
+          "experiences": [
+          {
+            "name": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
       },
       {
         "title": "Corozal",
-        "id": 10
-      }
-    ],
-    "Restaurants": [
-      {
-        "Ambergris Caye": [
+        "id": 10,
+        "restaurants": [
           {
-            "title": "Blues",
+            "name": "Blues",
             "directions": "ssdsds, street",
             "phone": 6047891,
             "open": 10,
             "closes": 20,
             "img": "cz/1.png"
           }
-      ]
-      },
-      {
-       "Caye Caulker": [
+          ],
+          "hotels": [
           {
-            "title": "Blues",
+            "name": "Blues",
             "directions": "ssdsds, street",
             "phone": 6047891,
             "open": 10,
             "closes": 20,
             "img": "cz/1.png"
           }
-          ]
-      },
-      {
-        "San Ignacio": [
+          ],
+          "experiences": [
           {
-            "title": "Blues",
+            "name": "Blues",
             "directions": "ssdsds, street",
             "phone": 6047891,
             "open": 10,
@@ -78,90 +340,6 @@
             "img": "cz/1.png"
           }
           ]
-      },
-      {
-        "Placencia": [
-          {
-            "title": "Blues",
-            "directions": "ssdsds, street",
-            "phone": 6047891,
-            "open": 10,
-            "closes": 20,
-            "img": "cz/1.png"
-          }
-          ]
-      },
-      {
-        "Hopkins": [
-          {
-            "title": "Blues",
-            "directions": "ssdsds, street",
-            "phone": 6047891,
-            "open": 10,
-            "closes": 20,
-            "img": "cz/1.png"
-          }
-          ]
-      },
-      {
-       "Belize City": [
-          {
-            "title": "Blues",
-            "directions": "ssdsds, street",
-            "phone": 6047891,
-            "open": 10,
-            "closes": 20,
-            "img": "cz/1.png"
-          }
-          ]
-      },
-      {
-       "Glover's Reef": [
-          {
-            "title": "Blues",
-            "directions": "ssdsds, street",
-            "phone": 6047891,
-            "open": 10,
-            "closes": 20,
-            "img": "cz/1.png"
-          }
-          ]
-      },
-      {
-       "Orange Walk": [
-          {
-            "title": "Blues",
-            "directions": "ssdsds, street",
-            "phone": 6047891,
-            "open": 10,
-            "closes": 20,
-            "img": "cz/1.png"
-          }
-          ]
-      },
-      {
-        "Toledo": [
-          {
-            "title": "Blues",
-            "directions": "ssdsds, street",
-            "phone": 6047891,
-            "open": 10,
-            "closes": 20,
-            "img": "cz/1.png"
-          }
-        ]
-      },
-      {
-        "Corozal": [
-          {
-            "title": "Blues",
-            "directions": "ssdsds, street",
-            "phone": 6047891,
-            "open": 10,
-            "closes": 20,
-            "img": "cz/1.png"
-          }
-        ]
       }
     ]
   }
