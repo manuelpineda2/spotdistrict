@@ -1,0 +1,46 @@
+[
+  {
+    "Districts": [
+      {
+        "title": "Ambergris Caye",
+        "id": 1
+      },
+      {
+        "title": "Caye Caulker",
+        "id": 2
+      },
+      {
+        "title": "San Ignacio",
+        "id": 3
+      },
+      {
+        "title": "Placencia",
+        "id": 4
+      },
+      {
+        "title": "Hopkins",
+        "id": 5
+      },
+      {
+        "title": "Belize City",
+        "id": 6
+      },
+      {
+        "title": "Glover's Reef",
+        "id": 7
+      },
+      {
+        "title": "Orange Walk",
+        "id": 8
+      },
+      {
+        "title": "Toledo",
+        "id": 9
+      },
+      {
+        "title": "Corozal",
+        "id": 10
+      }
+    ]
+  }
+]
